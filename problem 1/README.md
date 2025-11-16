@@ -1,4 +1,4 @@
-# Multi-Agent Airline Information System (AWS Bedrock)
+# Multi-Agent Airline Information System (Open AI GPT)
 
 This project implements a *Two-Agent AI System* for answering flight-related queries:
 
@@ -7,7 +7,7 @@ Receives user questions like:
 - "When does EK501 depart?"
 - "What is the status of BA204?"
 
-Uses AWS Bedrock to extract the *flight number* from natural-language text.
+Uses Open AI GPT to extract the *flight number* from natural-language text.
 
 ### Info Agent  
 Provides structured flight information from a mock flight database.
