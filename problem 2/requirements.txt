@@ -4,3 +4,4 @@ scikit-learn
 python-dotenv
 sentence-transformers
 tqdm
+tf-keras
