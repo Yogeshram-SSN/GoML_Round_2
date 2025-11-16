@@ -1,4 +1,4 @@
-# Problem 2 — Sentiment Classification Using Transformer Embeddings + SVM
+# Problem 2 - Sentiment Classification Using Transformer Embeddings + SVM
 
 ## Overview
 This project implements a sentiment analysis system that classifies airline customer reviews as **positive** or **negative**.  
